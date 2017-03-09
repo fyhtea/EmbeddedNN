@@ -1,5 +1,5 @@
 #**EmbeddedNN**
-A collection of works aiming at deploying NN in embedded systems
+A collection of works aiming at deploying NN in embedded systems,inspired by 
 ##**Mobile Framework**
 ### **Android Framework using renderscript with mali GPU**
 - Fast and Energy-Efficient CNN Inference on IoT Devices(ucdavis)
@@ -19,7 +19,8 @@ A collection of works aiming at deploying NN in embedded systems
 
 ### **Weight Sharing**
 - Deep Compression:Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding(stanford)
-Low precision
+
+### **Low precision**
 - Ristretto: Hardware-Oriented Approximation of Convolutional Neural Networks(ucdavis)
 
 ### **NN Architecture**
