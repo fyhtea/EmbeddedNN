@@ -1,5 +1,6 @@
 #**EmbeddedNN**
-A collection of works aiming at deploying NN in embedded systems,inspired by 
+A collection of works aiming at deploying NN in embedded systems,inspired by [Neural-Networks-on-Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon) and [Embedded-Neural-Network](https://github.com/ZhishengWang/Embedded-Neural-Network)
+
 ##**Mobile Framework**
 ### **Android Framework using renderscript with mali GPU**
 - Fast and Energy-Efficient CNN Inference on IoT Devices(ucdavis)
