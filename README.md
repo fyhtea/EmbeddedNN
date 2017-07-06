@@ -30,7 +30,7 @@ A collection of works aiming at deploying NN in embedded systems,inspired by [Ne
 - SqueezedNet:AlexNet-Level Accuracy With 50x Fewer Parameters and '<'0.5MB Model Size(stanford)
 - XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks(Washington)
 - MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications(Google,17)
-
+- ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices(Face++,17)
 
 ## **Code**
 - [ARM Compute Library](https://github.com/ARM-software/ComputeLibrary)
