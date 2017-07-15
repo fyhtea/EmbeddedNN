@@ -1,5 +1,8 @@
 # **EmbeddedNN**
-A collection of works aiming at deploying NN in embedded systems,inspired by [Neural-Networks-on-Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon) and [Embedded-Neural-Network](https://github.com/ZhishengWang/Embedded-Neural-Network)
+A collection of works aiming at deploying NN in embedded systems,inspired by 
+1. [Neural-Networks-on-Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon) 
+2. [Embedded-Neural-Network](https://github.com/ZhishengWang/Embedded-Neural-Network)
+3. [EMDL](https://github.com/csarron/emdl)
 
 ## **Mobile Framework**
 ### **Framework using mobile GPU**
