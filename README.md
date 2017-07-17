@@ -8,7 +8,9 @@ A collection of works aiming at deploying NN in embedded systems,inspired by
 ### **Framework using mobile GPU**
 
 1. [DeepMon: Mobile GPU-based Deep Learning Framework for Continuous Vision Applications](https://nsr.cse.buffalo.edu/mobisys_2017/papers/pdfs/mobisys17-paper07.pdf) [MobiSys '17]
+2. [Accelerating Mobile Audio Sensing Algorithms through On-Chip GPU Offloading](http://www.cl.cam.ac.uk/~cm542/papers/mobisys17.pdf) [MobiSys '17]
 2. [MobiRNN: Efficient Recurrent Neural Network Execution on Mobile GPU](https://arxiv.org/abs/1706.00878) [EMDL '17]
+4. [RSTensorFlow: GPU Enabled TensorFlow for Deep Learning on Commodity Android Devices](http://delivery.acm.org/10.1145/3090000/3089805/p7-alzantot.pdf?ip=223.3.52.9&id=3089805&acc=OPEN&key=BF85BBA5741FDC6E%2EEEBE655830483280%2E4D4702B0C3E38B35%2E6D218144511F3437&CFID=961384206&CFTOKEN=32790756&__acm__=1500293450_f2fe4a616c99bd419c4d00102a7e28c0#URLTOKEN#)
 3. Fast and Energy-Efficient CNN Inference on IoT Devices(ucdavis)
 4. GPU-based Acceleration of Deep Convolutional Neural Networks on Mobile Platforms(ucdavis)
 5. CNNdroid GPU-Accelerated Execution of Trained Deep Convolutional Neural Networks on Android(ucdavis)
